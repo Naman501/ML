@@ -1,2 +1,2 @@
 # ML
-python for DS and ML
+Python for Data_Science  and Machine_Learning
